@@ -1,0 +1,11 @@
+#PLOT DENSITY
+plot(density(mtcars$mpg),main="Plot Density MPG")
+plot(density(mtcars$cyl),main="Plot Density CYL")
+plot(density(mtcars$hp),main="Plot Density HP")
+plot(density(mtcars$drat),main="Plot Density DRAT")
+plot(density(mtcars$wt),main="Plot Density WT")
+plot(density(mtcars$qsec),main="Plot Density QSEC")
+plot(density(mtcars$vs),main="Plot Density VS")
+plot(density(mtcars$am),main="Plot Density AM")
+plot(density(mtcars$gear),main="Plot Density GEAR")
+plot(density(mtcars$carb),main="Plot Density CARB")
